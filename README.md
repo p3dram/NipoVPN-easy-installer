@@ -20,4 +20,4 @@ We want to extend our sincere thanks to Morteza Bashsiz for creating and maintai
 To install and configure the NipoVPN server instantly, run the following command with root privileges on your server:
 
 ```bash
-bash <(curl -sL [https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/NipoVPN-easy-installer/main/install.sh](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/NipoVPN-easy-installer/main/install.sh))
+bash <(curl -sL [https://raw.githubusercontent.com/p3dram/NipoVPN-easy-installer/main/install.sh](https://raw.githubusercontent.com/p3dram/NipoVPN-easy-installer/main/install.sh))
