@@ -21,15 +21,3 @@ To install and configure the NipoVPN server instantly, run the following command
 
 ```bash
 bash <(curl -sL [https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/NipoVPN-easy-installer/main/install.sh](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/NipoVPN-easy-installer/main/install.sh))
-
-
-🛠️ Service Management
-The installer registers NipoVPN as a background service daemon. You can manage it using standard system commands:
-
-Check Service Status: sudo systemctl status nipovpn-server
-
-Restart the Server: sudo systemctl restart nipovpn-server
-
-Stop the Server: sudo systemctl stop nipovpn-server
-
-View Output Logs: tail -f /var/log/nipovpn/nipovpn.log
